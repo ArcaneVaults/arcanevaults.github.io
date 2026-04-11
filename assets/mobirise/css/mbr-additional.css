@@ -4230,51 +4230,6 @@ a {
 .cid-vgky0cHmNP .mbr-section-subtitle {
   color: #00a98e;
 }
-.cid-vgtzsUFPHT {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  background-color: #000908;
-}
-.cid-vgtzsUFPHT .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vgtzsUFPHT .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-vgtzsUFPHT .card-wrapper {
-  background: #000908;
-}
-@media (max-width: 767px) {
-  .cid-vgtzsUFPHT .card-wrapper {
-    padding: 1.5rem;
-  }
-}
-@media (min-width: 768px) and (max-width: 991px) {
-  .cid-vgtzsUFPHT .card-wrapper {
-    padding: 2.25rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-vgtzsUFPHT .card-wrapper {
-    padding: 9rem 4rem;
-  }
-}
-.cid-vgtzsUFPHT .mbr-text,
-.cid-vgtzsUFPHT .mbr-section-btn {
-  color: #000000;
-  text-align: center;
-}
-.cid-vgtzsUFPHT .card-title,
-.cid-vgtzsUFPHT .card-box {
-  text-align: center;
-  color: #2e481a;
-}
 .cid-vgtxInWSCT {
   z-index: 1000;
   width: 100%;
@@ -4849,6 +4804,51 @@ a {
   .cid-vgtxInWSCT .navbar-collapse {
     padding: 1rem;
   }
+}
+.cid-vgtzsUFPHT {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000908;
+}
+.cid-vgtzsUFPHT .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vgtzsUFPHT .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vgtzsUFPHT .card-wrapper {
+  background: #000908;
+}
+@media (max-width: 767px) {
+  .cid-vgtzsUFPHT .card-wrapper {
+    padding: 1.5rem;
+  }
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  .cid-vgtzsUFPHT .card-wrapper {
+    padding: 2.25rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-vgtzsUFPHT .card-wrapper {
+    padding: 9rem 4rem;
+  }
+}
+.cid-vgtzsUFPHT .mbr-text,
+.cid-vgtzsUFPHT .mbr-section-btn {
+  color: #000000;
+  text-align: center;
+}
+.cid-vgtzsUFPHT .card-title,
+.cid-vgtzsUFPHT .card-box {
+  text-align: center;
+  color: #2e481a;
 }
 .cid-vgtygNsukM {
   padding-top: 0rem;
